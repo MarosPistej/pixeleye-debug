@@ -1,0 +1,10 @@
+{
+  "name": "pixeleye-debug",
+  "packageManager": "yarn@3.3.1",
+  "devDependencies": {
+    "@pixeleye/playwright": "^0.6.1-alpha.2",
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^20.12.12",
+    "pixeleye": "^0.7.9-alpha.2"
+  }
+}
